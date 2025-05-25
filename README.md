@@ -90,7 +90,4 @@ This project is open for educational and personal use. Please credit if reused.
 
 ---
 
-## 🙋‍♂️ Author
-TANMAY GUHA
 
-Email:- tanmayguha15@gmail.com
