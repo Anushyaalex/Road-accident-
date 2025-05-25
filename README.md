@@ -26,12 +26,6 @@ Analyze road accident data to identify high-risk locations, determine major caus
 
 ---
 
-## 📂 Dataset
-
-🔗 [Click here for the Dataset](https://drive.google.com/drive/folders/1OYsHsfWDSI2zd2bxFXoZf-HMq3O1Ob3O)
-
----
-
 ## 📸 Screenshot
 ![Screenshot 2025-05-18 130149](https://github.com/user-attachments/assets/27117135-5051-492f-b000-dd9f3c548145)
 
@@ -54,20 +48,12 @@ Analyze road accident data to identify high-risk locations, determine major caus
 
 ## ✅ Deliverables
 
-* 🖥️ **Interactive Power BI Dashboard**
+* 🖥️ **tableau Dashboard**
 * 📊 **Visual Analysis of High-Risk Zones**
 * 🔍 **Insights on accident causes by time, weather, road, and lighting conditions**
 * 📍 **Urban vs Rural Distribution**
 
 ---
-
-## 📁 Files Included
-
-* `Road_Accident_dashboard.pbix` - Power BI dashboard file
-* `Screenshot 2025-05-18 130149.png` - Final dashboard screenshot
-
----
-
 ## 🔚 Conclusion
 
 This dashboard helps stakeholders such as traffic departments and urban planners:
@@ -78,16 +64,11 @@ This dashboard helps stakeholders such as traffic departments and urban planners
 
 ---
 
-## 📌 Future Improvements
-Real-time data integration using APIs or SQL
-Predictive analysis using Python or R integration
-Alerting system for hotspot thresholds
-
----
-
 ## 📃 License
 This project is open for educational and personal use. Please credit if reused.
 
 ---
+Authur
+@anushyaalex
 
 
