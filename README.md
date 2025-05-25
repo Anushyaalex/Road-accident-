@@ -10,7 +10,7 @@ Analyze road accident data to identify high-risk locations, determine major caus
 
 ## 🛠 Tools & Technologies
 
-* **Power BI** (DAX, Power Query, Map visuals, Bar/Pie/Line charts)
+* **tableau** (DAX, Power Query, Map visuals, Bar/Pie/Line charts)
 * **Microsoft Excel** (initial data exploration and transformation)
 * **Geographic Mapping** for spatial analysis
 
